@@ -1,0 +1,112 @@
+Changelog Legend:
+
+[+] = Added
+[*] = Changed
+[^] = Moved
+[=] = No Changes
+[x] = Deleted
+[!] = Bugs
+
+----
+
+(14/06/2016) - Update - Version 2.0.3
+
+[+] Added option to set custom post excerpt length.
+[+] Added option to select Character Set.
+[*] Updated the list of available Google fonts.
+
+----
+
+(10/05/2016) - Update - Version 2.0.2
+
+[*] Updated browser-specific styling to form elements (-webkit-appearance and -moz-appearance values).
+[*] Changed Support and Get Premium links.
+[*] Fixed CSS conflict with All-in-One Event Calendar (floating of event details in single event view).
+
+----
+
+(22/01/2016) - Update - Version 2.0.1
+
+[*] Removed platform specific styling to form elements by setting -webkit-appearance and -moz-appearance to "none".
+
+----
+
+(08/12/2015) - Update - Version 2.0.0
+
+[*] Moved custom Theme Options to the Customizer API.
+[+] Added "About NatureSpace" admin page.
+[x] Removed Favicon option as it is a core option since WordPress 4.3.
+
+----
+
+(12/10/2015) - Update - Version 1.1.6
+
+[*] Updated Italian translation.
+[*] Updated the TGM Plugin Activation to the version 2.5.2.
+[!] Fixed problem with floating of the Reply form in the Comments section.
+
+----
+
+(29/07/2015) - Update - Version 1.1.5
+
+[+] Added Turkish translation.
+[*] Updated the list of available Google fonts (corrected nonfunctional fonts).
+[*] Increased height of the responsive drop-down menus.
+[*] Specified a recommended height of the Header Image.
+
+----
+
+(10/06/2015) - Update - Version 1.1.4
+
+[+] Added Polish translation.
+[+] Added support for the Title Tag feature.
+[+] Added support for the "pingback" link in <head> section.
+[*] Updated the TGM Plugin Activation to the version 2.4.2.
+[*] Updated the "viewport" meta tag.
+[*] Updated German translation.
+
+----
+
+(22/02/2015) - Update - Version 1.1.3
+
+[+] Added Danish translation.
+[*] Updated editor-style.css.
+
+----
+
+(12/01/2015) - Update - Version 1.1.2
+
+[+] Added Greek translation.
+[+] Mentioned the Text Domain in style.css.
+[*] Set the priority of excerpt_length filter from 999 to 20.
+[*] Updated paginate_links() arguments (added "add_args").
+
+----
+
+(30/12/2014) - Update - Version 1.1.1
+
+[+] Added Dutch translation.
+[+] Added ability to use the "nextpage" tag on pages.
+
+----
+
+(17/12/2014) - Update - Version 1.1.0
+
+[+] Added Italian translation.
+[*] Updated including of the TGM_Plugin_Activation class (only the users who are allowed to install plugins can see it now).
+
+----
+
+(03/11/2014) - Update - Version 1.0.2
+
+[+] Mentioned the URLs of images used in screenshot.
+
+----
+
+(01/10/2014) - Update - Version 1.0.1
+
+[x] Removed deprecated function "screen_icon()" from class-tgm-plugin-activation.php.
+
+----
+
+(23/09/2014) - The initial public release - Version 1.0.0
