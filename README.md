@@ -15,6 +15,6 @@ Réalisé par Louka Fauvel et Alexandre Gobé dans le cadre d'un projet d'étude
 
 **Screenshots** :
 
-![Capture d’écran Accueil](document/Capture d’écran Accueil.png)
+![Capture d’écran Accueil](document/Capture_d’écran_Accueil.png)
 
 **A venir** : Au fur et à mesure, l'artiste peintre pourra ajouter des tableaux dans sa galerie.
