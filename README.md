@@ -13,8 +13,8 @@ Réalisé par Louka Fauvel et Alexandre Gobé dans le cadre d'un projet d'étude
 **Thème utilisé** : NatureSpace
 **Pluggin utilisé** : WPForms Lite - Envira Gallery
 
-**Screenshots** :
+**Screenshot** :
 
 ![Capture d’écran Accueil](document/Capture_d’écran_Accueil.png)
 
-**A venir** : Au fur et à mesure, l'artiste peintre pourra ajouter des tableaux dans sa galerie.
+**A venir** : Au fur et à mesure, l'artiste peintre pourra ajouter des tableaux dans sa galerie et mettre à jour son actualité.
